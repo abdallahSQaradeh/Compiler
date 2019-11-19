@@ -1,0 +1,14 @@
+﻿  LexicalCompiler.cpp
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(274): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(562): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(576): warning C4018: '<=': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(579): warning C4018: '<=': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(634): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(636): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(631): warning C4101: 'check': unreferenced local variable
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(682): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(895): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(949): warning C4018: '<': signed/unsigned mismatch
+c:\users\abooo\source\repos\lexicalcompiler\lexicalcompiler\lexicalcompiler.cpp(1031): warning C4101: 'input': unreferenced local variable
+  LexicalCompiler.vcxproj -> C:\Users\abooo\source\repos\LexicalCompiler\Debug\LexicalCompiler.exe

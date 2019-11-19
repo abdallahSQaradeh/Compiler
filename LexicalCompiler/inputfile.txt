@@ -1,0 +1,5 @@
+id
+const integer A := 5+5
+
+
+		
